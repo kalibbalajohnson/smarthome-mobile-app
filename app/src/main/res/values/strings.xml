@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Smart Home</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_things">Things</string>
+    <string name="title_routines">Routines</string>
+    <string name="title_ideas">Ideas</string>
+    <string name="title_settings">Settings</string>
+</resources>
